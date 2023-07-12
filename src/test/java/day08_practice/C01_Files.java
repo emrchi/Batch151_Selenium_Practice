@@ -1,10 +1,9 @@
-package day058_practice;
+package day08_practice;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class C01_Files {
